@@ -1,1 +1,1 @@
-# NeuroSensorEnhanceTechnology
+# NeuroSensoryEnhanceTechnology
